@@ -1,0 +1,91 @@
+
+/*
+CUSTOMIZE YOUR BOT STYLES HERE, 
+If you use .bot-mybotname, it will only apply when that bot is active
+*/
+
+
+/* e.g., make it pink */
+#app.bot-drawingbot  {
+	background-color: lightpink;
+}
+
+.bot-drawingbot .chat-messages-holder {
+	margin: 2px;
+	border-radius: 10px;
+	background-color: hotpink;
+
+	border: 2px solid magenta;
+}
+
+.bot-drawingbot .message-text {
+	background-color: white;
+}
+
+.bot-drawingbot .message-text {
+	background-color: white;
+}
+
+.bot-drawingbot .message-row-bot {
+	font-family: monospace;
+}
+.bot-drawingbot .message-row-user {
+	font-family: cursive;
+}
+
+
+.bot-storyletbot {
+  background-color: hsla(210, 90%, 10%, 1);
+  color: white;
+}
+
+.bot-storyletbot .panel {
+ background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+  background-color: hsla(210, 90%, 20%, 1);
+  
+  border: white;
+}
+
+/* Styles for the magic8ball bot */
+#app.bot-magic8ball {
+    background-color: lightblue;
+}
+
+.bot-magic8ball .chat-messages-holder {
+    margin: 2px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: 2px solid deepskyblue;
+}
+
+.bot-magic8ball .message-text {
+    background-color: white;
+    color: darkblue;
+}
+
+.magic8ball-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.magic8ball-answer {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.magic8ball-emoji {
+  font-size: 50px;
+}
+/* Styles for the badadvicebot bot */
+#app.bot-badadvice {
+    background-color: lightyellow;
+}
+.bot-badadvice .chat-messages-holder {
+    margin: 2px;
+    border-radius: 10px;
+    background-color: orange;
+    border: 2px solid darkorange;
+}
