@@ -22,17 +22,9 @@ Bad Advice Bot: Has multiple emotional "states" that it moves through (angry, ha
 with a square that changes its color in accordance to its mood. Red = angry, Yellow = neutral, Green = happy.
 
 
-## Gricean maxims
-
-Magic 8 Ball Bot: The bot follows the maxims as it provides relevant and concise answers to the user's questions, maintaining 
-clarity and being truthful to the extent of its capabilities.
-
-Bad Advice Bot: The bot may not fully adhere to the Gricean maxims, as it intentionally provides bad advice, which contradicts
-the maxim of quality (providing truthful information) and manner (being clear and concise).
-
 ### Assets and permissions to include them
 
 Sound Effect by Shiden Beats Music from Pixabay, the Content License allows users to:
-✓	Use Content for free
-✓	Use Content without having to attribute the author (although giving credit is always appreciated by our community!)
-✓	Modify or adapt Content into new works
+*	Use Content for free
+*	Use Content without having to attribute the author (although giving credit is always appreciated by our community!)
+*	Modify or adapt Content into new works
